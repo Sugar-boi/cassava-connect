@@ -1,4 +1,6 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4598c5ea-76b6-45e3-8867-6fa8e16fc95d" /># cassava-connect
+<img width="1920" height="931" alt="github sample" src="https://github.com/user-attachments/assets/4149b82f-6d39-480d-8a5f-da84c8866b59" /><img width="1920" height="935" alt="github products" src="https://github.com/user-attachments/assets/ba721f8b-26fe-44d4-8fb3-2532f7287e0b" />
+
+
 "A PHP-based peer-to-peer marketplace connecting cassava farmers and buyers directly to eliminate middlemen and ensure price transparency."
 # 🌾 Cassava Connect 
 **Connecting Farmers and Buyers Directly**
@@ -19,7 +21,7 @@ Cassava Connect is a peer-to-peer marketplace designed to eliminate middlemen in
 *   **Design Tools:** Figma (UI/UX Prototyping)
 
 ### 📸 Screenshots
-*(Add your screenshots here later once you have them!)*
+
 ![Marketplace View](path/to/your/image.png)
 
 ### ⚙️ How to Run Locally
