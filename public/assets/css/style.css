@@ -1,0 +1,66 @@
+.navbar-brand i {
+    color: #198754;
+    /* Bootstrap success green */
+}
+
+body {
+    background-image: url('../../uploads/cassava.jpg');
+}
+
+.badge {
+    font-size: 0.7rem;
+    padding: 4px 6px;
+}
+
+.nav-link i {
+    color: #198754;
+}
+
+form .form-control,
+form .form-select {
+    border-radius: 10px;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f9f9f4;
+}
+
+.navbar-brand img {
+    border: 2px solid white;
+}
+
+.btn-primary,
+.btn-success {
+    background-color: #198754;
+    border: none;
+}
+
+.btn-primary:hover,
+.btn-success:hover {
+    background-color: #157347;
+}
+
+.card {
+    border: 1px solid #e6e6d8;
+    border-radius: 10px;
+}
+
+.card:hover {
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+}
+
+.alert-info {
+    background-color: #e8f5e9;
+    color: #198754;
+    border: none;
+}
+
+.nav-link {
+    transition: all 0.2s ease-in-out;
+}
+
+.nav-link:hover {
+    color: #f8f9fa !important;
+    opacity: 0.9;
+}
